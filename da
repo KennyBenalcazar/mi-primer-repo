@@ -1,0 +1,51 @@
+[33mcommit 919181819bc1ffa19ba24fa10a067a1f10018e3c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Kenny Benalcazar <benalcazarkenny2@gmail.com>
+Date:   Tue Sep 1 08:41:34 2026 -0500
+
+    chore: agregar archivos
+    
+    Esto servira como ejemplos para practicar el uso de git add y git commit.
+    
+    pie de pagina opcional.
+
+[33mcommit d296ae1ca60eafff8aaefec6029640e1c74d30e1[m
+Author: Kenny Benalcazar <benalcazarkenny2@gmail.com>
+Date:   Tue Sep 1 08:39:57 2026 -0500
+
+    prueba comit . -A
+
+[33mcommit b4e66121882100d499ce9a5ac36e1c583c85633d[m
+Author: Kenny Benalcazar <benalcazarkenny2@gmail.com>
+Date:   Tue Sep 1 08:34:11 2026 -0500
+
+    Agregar una nota y dos contactos
+
+[33mcommit 8317c8a08d9f8e9adaf3f872bb3e23bc3a511d22[m
+Author: Kenny Benalcazar <benalcazarkenny2@gmail.com>
+Date:   Tue Sep 1 08:25:22 2026 -0500
+
+    Renonambrar agenda y agregar Calificaciones y salarios
+
+[33mcommit c0139e22a415112d4315cacdf9c5a8560b320d2d[m
+Author: Kenny Benalcazar <benalcazarkenny2@gmail.com>
+Date:   Fri Aug 28 10:46:19 2026 -0500
+
+    Agregar c
+
+[33mcommit d4f7ce10c7c6c1b6c89bda6e833d46def4321149[m
+Author: Kenny Benalcazar <benalcazarkenny2@gmail.com>
+Date:   Fri Aug 28 10:44:03 2026 -0500
+
+    2 nuevos archivos
+
+[33mcommit 59cbd4e0d2ad4eb8fd509fc3b70b624fc02dbbbd[m
+Author: Kenny Benalcazar <benalcazarkenny2@gmail.com>
+Date:   Fri Aug 28 10:37:24 2026 -0500
+
+    Agregar 4 productos a la lista
+
+[33mcommit 24a66f87c833c68f97d0a03a486c550c0859fa26[m
+Author: Kenny Benalcazar <benalcazarkenny2@gmail.com>
+Date:   Fri Aug 28 10:28:20 2026 -0500
+
+    Se creo el archivo Lista.TXT
