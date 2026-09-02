@@ -1,3 +1,8 @@
 1. Pasar el super por las compras 
 2. Nota para probar los cambios remotos en un repositorio
+<<<<<<< HEAD
 nota de prueba remota 
+=======
+3. otro txto de prueba 
+>>>>>>> df45ec4 (Agrega pendiente para prueba git pull)
+Migel
