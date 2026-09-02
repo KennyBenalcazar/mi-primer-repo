@@ -6,3 +6,4 @@ nota de prueba remota
 3. otro txto de prueba 
 >>>>>>> df45ec4 (Agrega pendiente para prueba git pull)
 Migel
+kenny
